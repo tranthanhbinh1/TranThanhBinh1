@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tran Thanh Binh
-- 👀 I’m interested in Engineering and Data
+- 👀 I’m interested in Sofware Engineering & Data Infrastructure
 - 🌱 I’m currently learning to become a Data Engineer
 
 
