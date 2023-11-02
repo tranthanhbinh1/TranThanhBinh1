@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tran Thanh Binh
-- 👀 I’m interested in Sofware Engineering & Data Infrastructure
-- 🌱 I’m currently learning to become a Data Engineer
+- 👀 I’m heavily invested in Sofware Engineering & Data Infrastructure
+- 🌱 I’m currently learning to become a better Data Engineer
 
 
 <!---
