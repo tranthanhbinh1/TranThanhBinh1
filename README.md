@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tran Thanh Binh
-- 👀 I’m heavily invested in Sofware Engineering, Data Infrastructure and Machine Learning
+- 👀 I’m heavily invested in Sofware Engineering, Data/ML Infrastructure and AI in general.
 
 
 <!---
